@@ -1,6 +1,6 @@
 # HTML & CSS Project 3
 
-**Live Demo:** https://zlmohanadlz.github.io/HTML-CSS-Project-3
+**Live Demo:** [https://zlmohanadlz.github.io/HTML-CSS-Project-3](https://mohanadx.github.io/HTML-CSS-Project-3/)
 
 A responsive, multi‑section website built with semantic **HTML5**, modern **CSS3**, and a small amount of **vanilla JavaScript** for interactivity. This project is ideal as a learning resource, a starter template.
 
